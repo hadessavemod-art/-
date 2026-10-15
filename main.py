@@ -17,7 +17,7 @@ from aiogram.filters import Command
 from aiogram.client.default import DefaultBotProperties
 
 # ============ КОНФИГ ============
-BOT_TOKEN = "8807286672:AAEIss-kdTWHWpEWOOOuwHLKSqjK3JhcnLk"
+BOT_TOKEN = "8609600422:AAGf0Xy1V87YLv-x-aRCM3V4u8wQLe6r8mM"
 SELLER_USERNAME = "@cryptoexchxnge"
 ADMIN_ID = 8754872846
 
